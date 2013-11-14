@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Agenda Chamada</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_wake">Agenda Chamada</string>
+    <string name="lbNumber">Numero</string>
+
+</resources>
